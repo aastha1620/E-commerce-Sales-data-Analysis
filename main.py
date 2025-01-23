@@ -88,7 +88,7 @@ fig.add_trace(go.Bar(x=Customer_segment['Segment'],
 
 fig.update_layout(title ='Sales and Profit Analysis - Customer Segment',
                   xaxis_title='Customer Segment',
-                  yaxis_#title='Amount')
+                  yaxis_title='Amount')
 
 fig.show()
 
